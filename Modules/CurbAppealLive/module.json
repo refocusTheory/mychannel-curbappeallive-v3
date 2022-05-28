@@ -1,0 +1,13 @@
+{
+    "name": "CurbAppealLive",
+    "alias": "curbappeallive",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CurbAppealLive\\Providers\\CurbAppealLiveServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
